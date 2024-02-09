@@ -23,8 +23,9 @@
 ## <a id="setup"></a> 📁 » Setting up
 
 1. Install [Python](https://www.python.org/downloads/) and add to PATH.
-2. Install the requirements → `pip install -r requirements.txt`.
+2. Install the requirements → launch `setup.bat`.
 3. Open up main.py with notepad or some other editor.
+4. Run it with `start.bat`.
 
 # <a id="config"></a>⚙ » Config
 Change some settings :
