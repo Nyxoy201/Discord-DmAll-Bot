@@ -23,7 +23,8 @@
 ## <a id="setup"></a> 📁 » Setting up
 
 1. Install [Python](https://www.python.org/downloads/) and add to PATH.
-2. Open up main.py with notepad or some other editor
+2. Install the requirements → `pip install -r requirements.txt`.
+3. Open up main.py with notepad or some other editor.
 
 # <a id="config"></a>⚙ » Config
 Change some settings :
