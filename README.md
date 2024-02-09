@@ -13,7 +13,7 @@
 
 ## <a id="features"></a>🛠 » Features
 1. `ping` → **Displays bot latency.**
-2. `dm <user_id> <message>` → **Send a private message to a member with the bot.**
+2. `dm <user_id> <message>` → **Send a private message to a member with the bot.**   | "0/1/2/3" = cooldown in sec | "all/on/off" = members will receive dm : all = all : on = online : off = offline |
 3. `dmall <0/1/2/3> <all/on/off> <message>` → **Send a message to everyone on the server.**
 4. `servers` → **Show the servers where the bot is.**
 5. `get <server_id>` → **Get an invitation to a server where the bot is.**
