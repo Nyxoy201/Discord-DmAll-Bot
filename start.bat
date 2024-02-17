@@ -1,4 +1,4 @@
 @echo off
 title DmAll Bot By Nyxoy
 
-python bot.py
+python main.py
